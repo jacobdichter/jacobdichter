@@ -1,13 +1,11 @@
 # Welcome
 
-🎓 Master's in Computer Science | 🏃 Running Enthusiast | 📊 Data Science & AI  
+🎓 Master's in Computer Science | 🏃 Running Enjoyer | 📊 Data Science & AI  
 
-- 🔭 Currently working on: A locality recommender system for Connecticut  
-- 🌱 Learning: Dash, Django, and advanced geospatial analysis  
+- 🔭 Currently working on: Getting Hired!
+- 🌱 Learning: Power BI, SQL Server, Front-end stack for my portfolio site
 - 📫 Reach me at: jacobdichter@gmail.com
-- 💡 Fun fact: I ran a 10k in 53:00!  
+- 💡 Fun fact: I am training to break 1:00:00 in the Litchfield Hills Road Race 2025
 
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=jacobdichter)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobdichter&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobdichter&layout=compact&theme=tokyo)
 
