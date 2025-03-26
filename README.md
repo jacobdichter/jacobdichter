@@ -7,4 +7,4 @@
 - 📫 Reach me at: jacobdichter@gmail.com
 - 💡 Fun fact: I ran a 10k in 53:00!  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jacob123&show_icons=true&theme=dark)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jacobdichter&show_icons=true&theme=dark)  
