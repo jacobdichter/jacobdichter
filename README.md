@@ -7,5 +7,6 @@
 - 📫 Reach me at: jacobdichter@gmail.com
 - 💡 Fun fact: Training to break 1:00:00 in the 2025 Litchfield Hills Road Race
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobdichter&layout=compact&theme=tokyo)
-
+<div align="center">
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobdichter&layout=compact&theme=dracula)
+</div>
