@@ -7,7 +7,7 @@
 - 📫 Reach me at: jacobdichter@gmail.com
 - 💡 Fun fact: I ran a 10k in 53:00!  
 
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_username)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=jacobdichter)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_username&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobdichter&layout=compact&theme=dark)
 
