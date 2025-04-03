@@ -7,6 +7,6 @@
 - 🌱 Learning: Power BI, SQL Server, Front-end stack for my portfolio site
 - 📫 Reach me at: jacobdichter@gmail.com
   <br><br><br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobdichter&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobdichter&theme=default&timestamp=20250403123456)
 
 
